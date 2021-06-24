@@ -1,5 +1,11 @@
 # HOMEGYM
-
+## Team members
+- Yaser Al-Ananbeh
+- Ahmad Abudames
+- Osama Alali
+- Leen Hazaimeh
+- Aseel Dweedar
+- Mahmood Dinah
 
 - [Planning phase](#planning-phase)
   - [User Stories](#user-stories)
